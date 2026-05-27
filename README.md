@@ -9,7 +9,7 @@ I create user-focused documentation that helps technical teams and end users com
 - [Managed Mac Onboarding Guide](https://github.com/MackMike/michael-scarborough-technical-writing-portfolio/tree/main/Managed-Mac-Onboarding-Guide)
 - [Troubleshooting Compliance Failures on Jamf-Managed Macs](https://github.com/MackMike/michael-scarborough-technical-writing-portfolio/tree/main/Jamf-Managed-Mac-Compliance-Troubleshooting)
 - [Troubleshooting VPN Certificate Issues on Managed macOS Devices](https://github.com/MackMike/michael-scarborough-technical-writing-portfolio/blob/main/VPN-Certificate-Managed-Mac-Troubleshooting/README.md)
-- [Apache OpenOffice Technical Editing Sample](https://github.com/MackMike/michael-scarborough-technical-writing-portfolio/blob/main/projects/openoffice-technical-editing-project.md)
+- [Apache OpenOffice Technical Editing Sample](https://github.com/MackMike/michael-scarborough-technical-writing-portfolio/blob/main/Apache-OpenOffice-Technical-Editing/README.md)
 
 ## Skills
 
