@@ -23,7 +23,7 @@ I create user-focused documentation that helps technical teams and end users com
 
 ## Portfolio
 
-[View my full technical writing portfolio](https://github.com/MackMike/michael-scarborough-technical-writing-portfolio)
+[View my full technical writing portfolio](https://mackmike.github.io/technical-writing-portfolio-site/)
 
 ## Connect
 
