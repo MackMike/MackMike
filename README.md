@@ -13,13 +13,19 @@ I create user-focused documentation that helps technical teams and end users com
 
 ## Skills
 
-- Technical writing
-- Technical editing
+- Technical writing and editing
 - User and administrator documentation
 - Knowledge base and troubleshooting content
 - Process and workflow documentation
-- Markdown, GitHub, and docs-as-code workflows
-- Structured authoring and DITA fundamentals
+- Procedural and task-based writing
+- Structured authoring and topic-based writing
+
+## Tools
+
+- Markdown
+- GitHub and version-controlled documentation workflows
+DITA / XML (foundational)
+- macOS and Jamf Pro (subject-matter platforms)
 
 ## Portfolio
 
