@@ -2,7 +2,7 @@
 
 Technical Writer and Editor with a background in macOS systems engineering, endpoint management, and enterprise IT.
 
-I create user-focused documentation that helps technical teams and end users complete tasks, solve problems, and work more effectively. My work includes user guides, administrator documentation, knowledge base content, workflow documentation, and structured writing samples. I also serve as a Technical Editor for Apache OpenOffice documentation.
+I am a Technical Writer and Editor with a background in macOS systems engineering, endpoint management, and enterprise IT. I create clear, structured documentation that helps end users and technical teams complete tasks, troubleshoot issues, and follow processes more consistently.
 
 ## Featured Work
 
