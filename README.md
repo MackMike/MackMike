@@ -9,6 +9,7 @@ I am a Technical Writer and Editor with a background in macOS systems engineerin
 - [Managed Mac Onboarding Guide](https://github.com/MackMike/michael-scarborough-technical-writing-portfolio/tree/main/Managed-Mac-Onboarding-Guide)
 - [Troubleshooting Compliance Failures on Jamf-Managed Macs](https://github.com/MackMike/michael-scarborough-technical-writing-portfolio/tree/main/Jamf-Managed-Mac-Compliance-Troubleshooting)
 - [Troubleshooting VPN Certificate Issues on Managed macOS Devices](https://github.com/MackMike/michael-scarborough-technical-writing-portfolio/blob/main/VPN-Certificate-Managed-Mac-Troubleshooting/README.md)
+- [Reading List API Documentation](https://github.com/MackMike/michael-scarborough-technical-writing-portfolio/tree/main/Reading-List-API-Documentation)
 - [Apache OpenOffice Technical Editing Sample](https://github.com/MackMike/michael-scarborough-technical-writing-portfolio/blob/main/Apache-OpenOffice-Technical-Editing/README.md)
 
 ## Skills
