@@ -25,6 +25,7 @@ I am a Technical Writer and Editor with a background in macOS systems engineerin
 
 - Markdown
 - GitHub and version-controlled documentation workflows
+- OpenAPI 3.1
 - DITA / XML (foundational)
 - macOS and Jamf Pro (subject-matter platforms)
 
